@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_modif_list.c                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: phmoulin <phmoulin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/07/13 18:35:52 by phmoulin          #+#    #+#             */
-/*   Updated: 2017/07/26 16:15:38 by phmoulin         ###   ########.fr       */
+/*   Created: 2017/07/13 18:35:52 by alanteri          #+#    #+#             */
+/*   Updated: 2017/07/26 16:15:38 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

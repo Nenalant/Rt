@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_selection_info.c                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/03/08 11:59:14 by shamdani          #+#    #+#             */
-/*   Updated: 2017/08/03 13:54:16 by shamdani         ###   ########.fr       */
+/*   Created: 2017/03/08 11:59:14 by alanteri          #+#    #+#             */
+/*   Updated: 2017/08/03 13:54:16 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

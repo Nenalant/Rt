@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_check_obj.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/04/13 16:04:26 by shamdani          #+#    #+#             */
-/*   Updated: 2017/07/12 18:07:24 by phmoulin         ###   ########.fr       */
+/*   Created: 2017/04/13 16:04:26 by alanteri          #+#    #+#             */
+/*   Updated: 2017/07/12 18:07:24 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

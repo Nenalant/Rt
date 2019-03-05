@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_line.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/04/14 18:34:24 by shamdani          #+#    #+#             */
-/*   Updated: 2017/08/02 13:23:14 by shamdani         ###   ########.fr       */
+/*   Created: 2017/04/14 18:34:24 by alanteri          #+#    #+#             */
+/*   Updated: 2017/08/02 13:23:14 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,7 +33,8 @@ void			add_line(char *dest, char *src, int f)
 {
 	int d;
 
-	d = ft_strlen(dest);
+	if ((d = ft_strlen(dest)) == LINE_SIZE)
+		return ;
 	if (f == 1 && (isdigit(*src) ||
 		(ft_strchr(dest, '.') == NULL && *src == '.') ||
 		(*src == '-' && d == 0)))

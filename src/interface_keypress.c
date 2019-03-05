@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_keypress.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/06/19 14:01:43 by shamdani          #+#    #+#             */
-/*   Updated: 2017/07/13 16:44:30 by phmoulin         ###   ########.fr       */
+/*   Created: 2017/06/19 14:01:43 by alanteri          #+#    #+#             */
+/*   Updated: 2017/07/13 16:44:30 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

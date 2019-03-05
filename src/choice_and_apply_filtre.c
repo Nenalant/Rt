@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   choice_and_apply_filtre.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: phmoulin <phmoulin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/06/07 11:25:53 by phmoulin          #+#    #+#             */
-/*   Updated: 2017/08/22 15:29:36 by phmoulin         ###   ########.fr       */
+/*   Created: 2017/06/07 11:25:53 by alanteri          #+#    #+#             */
+/*   Updated: 2017/08/22 15:29:36 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

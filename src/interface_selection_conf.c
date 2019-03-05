@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_selection_conf.c                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/04/14 16:25:09 by shamdani          #+#    #+#             */
-/*   Updated: 2017/08/22 19:04:35 by shamdani         ###   ########.fr       */
+/*   Created: 2017/04/14 16:25:09 by alanteri          #+#    #+#             */
+/*   Updated: 2017/08/22 19:04:35 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

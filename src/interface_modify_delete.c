@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_modify_delete.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/03/09 12:04:26 by shamdani          #+#    #+#             */
-/*   Updated: 2017/08/02 18:08:41 by shamdani         ###   ########.fr       */
+/*   Created: 2017/03/09 12:04:26 by alanteri          #+#    #+#             */
+/*   Updated: 2017/08/02 18:08:41 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

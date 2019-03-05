@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_initialisation.c                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/04/18 11:34:10 by shamdani          #+#    #+#             */
-/*   Updated: 2017/07/16 19:30:39 by phmoulin         ###   ########.fr       */
+/*   Created: 2017/04/18 11:34:10 by alanteri          #+#    #+#             */
+/*   Updated: 2017/07/16 19:30:39 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

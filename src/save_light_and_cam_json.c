@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   save_light_and_cam_json.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/06/28 15:39:12 by phmoulin          #+#    #+#             */
-/*   Updated: 2017/08/03 14:01:18 by shamdani         ###   ########.fr       */
+/*   Created: 2017/06/28 15:39:12 by alanteri          #+#    #+#             */
+/*   Updated: 2017/08/03 14:01:18 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_create_obj_2.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: phmoulin <phmoulin@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/07/12 18:24:19 by phmoulin          #+#    #+#             */
-/*   Updated: 2017/08/24 19:05:40 by phmoulin         ###   ########.fr       */
+/*   Created: 2017/07/12 18:24:19 by alanteri          #+#    #+#             */
+/*   Updated: 2017/08/24 19:05:40 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

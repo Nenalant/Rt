@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parse.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2016/11/12 12:35:50 by shamdani          #+#    #+#             */
-/*   Updated: 2017/04/18 15:36:43 by shamdani         ###   ########.fr       */
+/*   Created: 2016/11/12 12:35:50 by alanteri          #+#    #+#             */
+/*   Updated: 2017/04/18 15:36:43 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,7 +46,7 @@ void			ft_create_tab_obj_light(__global t_env_cl *e, int id, double2 tr, int *ta
 	// printf("je repars la\n");
 }
 
-t_obj		inter_obj_light(__global t_env_cl *e, double4 p_ray, double4 v_ray, int *tab_obj_light_id, double *tab_obj_light_t)
+void		inter_obj_light(__global t_env_cl *e, double4 p_ray, double4 v_ray, int *tab_obj_light_id, double *tab_obj_light_t)
 {
 	int			i;
 	double2		dist;
@@ -203,7 +203,7 @@ uchar4		add_light(__global t_env_cl *e, uchar4 pixel, double4 p_hit, t_obj obj, 
 		v_light = vsub(p_hit, e->light[i].pos);
 		v_light = vnorm(v_light);
 	// printf("d inter_obj_light\n");
-		tab_obj_light_t[0] = 99999999999999999999l;
+		tab_obj_light_t[0] = -1lu;
  		inter_obj_light(e, e->light[i].pos, v_light, tab_obj_light_id, tab_obj_light_t);
 	// printf("f inter_obj_light\n");
 		l_color.r = e->light[i].color.r;

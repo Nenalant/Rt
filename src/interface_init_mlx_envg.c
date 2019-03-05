@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   interface_init_mlx_envg.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: shamdani <shamdani@student.42.fr>          +#+  +:+       +#+        */
+/*   By: alanteri <alanteri@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/07/12 18:49:39 by phmoulin          #+#    #+#             */
-/*   Updated: 2017/11/08 17:49:14 by shamdani         ###   ########.fr       */
+/*   Created: 2017/07/12 18:49:39 by alanteri          #+#    #+#             */
+/*   Updated: 2017/11/08 17:49:14 by alanteri         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
